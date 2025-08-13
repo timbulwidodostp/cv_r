@@ -1,6 +1,8 @@
 # cv_r
 Coefficient of variation (CV) Use cv (goeveg) With (In) R Software
 
+https://www.youtube.com/watch?v=2V6sxfCUyo4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
